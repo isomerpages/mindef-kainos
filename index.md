@@ -28,4 +28,16 @@ sections:
       description: STAGMONT CAMP
       button: Learn More
       url: /faq/
+  - infopic:
+      title: Welcome to KAINOS
+      subtitle: /kai̯.nós/
+      description: Drawing inspiration from the ancient Greek word meaning "new" or
+        "fresh," KAINOS is a gathering like no other.
+      button: Learn More
+      url: /about
+      image: /images/kainos-ai.jpg
+      alt: Image alt text
+  - resources:
+      subtitle: Meet our speakers
+      button: Resources Button Name
 ---
