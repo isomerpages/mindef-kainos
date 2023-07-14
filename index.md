@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
-          url: https://google.com
+          url: ""
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
@@ -23,9 +23,9 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: 6 - 8 NOVEMBER 2023
+      subtitle: Organised by Signals formation
+      description: STAGMONT CAMP
+      button: Learn More
       url: /faq/
 ---
