@@ -26,7 +26,6 @@ sections:
       title: 6 - 8 NOVEMBER 2023
       subtitle: Organised by Signals formation
       description: STAGMONT CAMP
-      button: About Kainos
       url: /about-kainos/
   - infopic:
       title: Welcome to KAINOS
