@@ -2,7 +2,11 @@ logo: /images/kainoslogo1.png
 links:
   - title: About Kainos
     url: /example-page/
+  - title: Guest Speakers
+    url: /meet-our-speakers/
+  - title: Event Schedule
+    url: /event-schedule/
   - title: Contact Us
     url: /contact-us/
   - title: News
-    collection: news
+    resource_room: true
