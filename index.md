@@ -17,24 +17,24 @@ sections:
           url: /about-kainos/
         - title: Meet our Speakers
           description: Discover the Visionaries
-          url: https://gmail.com
+          url: /meet-our-speakers/
         - title: Event Schedule
           description: Learn More
-          url: /privacy/
+          url: /event-schedule/
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOVEMBER 2023
       subtitle: Organised by Signals formation
       description: STAGMONT CAMP
       button: About Kainos
-      url: /faq/
+      url: /about-kainos/
   - infopic:
       title: Welcome to KAINOS
       subtitle: /kai̯.nós/
       description: Drawing inspiration from the ancient Greek word meaning "new" or
         "fresh," KAINOS is a gathering like no other.
       button: About KAinos
-      url: /about
+      url: /about-kainos/
       image: /images/ai-circle-smallerss.png
       alt: Image alt text
   - resources:
