@@ -11,16 +11,6 @@ sections:
       subtitle: POWER TO THE EDGE
       button: Register now
       url: https://go.gov.sg/kainos2023
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: ""
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOVEMBER 2023
