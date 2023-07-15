@@ -1,9 +1,9 @@
 title: KAINOS
 url: https://www.kainos.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/xkn-logo.png
 colors:
-  primary-color: "#4c5c96"
-  secondary-color: "#353849"
+  primary-color: "#4a90e2"
+  secondary-color: "#9013fe"
   media-colors:
     - title: media-color-one
       color: "#49759a"
