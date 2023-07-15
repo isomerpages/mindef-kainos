@@ -12,30 +12,30 @@ sections:
       button: Register now
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: About Kainos
+          description: Inspiring Innovation
           url: ""
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Meet our Speakers
+          description: Discover the Visionaries
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Event Schedule
+          description: Learn More
           url: /privacy/
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOVEMBER 2023
       subtitle: Organised by Signals formation
       description: STAGMONT CAMP
-      button: Learn More
+      button: About Kainos
       url: /faq/
   - infopic:
       title: Welcome to KAINOS
       subtitle: /kai̯.nós/
       description: Drawing inspiration from the ancient Greek word meaning "new" or
         "fresh," KAINOS is a gathering like no other.
-      button: Learn More
+      button: About KAinos
       url: /about
-      image: /images/ai-circle-small.png
+      image: /images/ai-circle-smallers.png
       alt: Image alt text
   - resources:
       subtitle: NEWS
