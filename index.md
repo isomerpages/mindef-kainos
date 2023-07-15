@@ -10,11 +10,11 @@ sections:
       title: KAINOS
       subtitle: POWER TO THE EDGE
       button: Register now
-      url: /contact-us/
+      url: https://go.gov.sg/kainos2023
       key_highlights:
         - title: About Kainos
           description: Inspiring Innovation
-          url: ""
+          url: /about-kainos/
         - title: Meet our Speakers
           description: Discover the Visionaries
           url: https://gmail.com
