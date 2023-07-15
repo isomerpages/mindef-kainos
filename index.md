@@ -37,7 +37,14 @@ sections:
       url: /about-kainos/
       image: /images/ai-circle-smallerss.png
       alt: Image alt text
+  - infobar:
+      title: Guest Speakers
+      subtitle: Discover the visionaries
+      description: Dynamic voices from military, industry, and academia unite at
+        KAINOS, delivering inspiring talks that shape the future.
+      button: Meet our speakers
+      url: /meet-our-speakers/
   - resources:
       subtitle: NEWS
-      button: SEE MORE
+      button: See all
 ---
