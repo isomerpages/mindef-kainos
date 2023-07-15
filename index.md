@@ -21,6 +21,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOVEMBER 2023
       subtitle: Organised by Signals formation
