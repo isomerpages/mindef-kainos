@@ -24,7 +24,7 @@ sections:
         "fresh," KAINOS is a gathering like no other.
       button: About KAinos
       url: /about-kainos/
-      image: /images/ai-circle-smallerss.png
+      image: /images/ai-circle-smaller-sq.png
       alt: Image alt text
   - infobar:
       title: Guest Speakers
