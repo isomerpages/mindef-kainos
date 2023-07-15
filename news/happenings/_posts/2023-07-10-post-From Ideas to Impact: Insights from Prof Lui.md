@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: /images/Speakers/lui_pao_chuen.png
 ---
+![](/images/Speakers/lui_pao_chuen.png)
