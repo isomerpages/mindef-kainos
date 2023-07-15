@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: KAINOS
+description: Power to the Edge
 image: /images/isomer-logo.svg
 permalink: /
 notification: Registration for KAINOS 2023 - Power to the Edge is open now!
