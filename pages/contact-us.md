@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@abc.gov.sg
+      - email: ""
       - other: ""
     title: KAINOS Organising Committee
 feedback: mailto:chua_wee_kian@defence.gov.sg
