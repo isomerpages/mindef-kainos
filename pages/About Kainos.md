@@ -28,4 +28,4 @@ description: ""
 	<h5>and more...</h5>
 </div>
 
-<a class="button primary" href="/">Back to home</a><p></p>
+<a class="button primary" href="/">Back to home</a>
