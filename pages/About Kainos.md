@@ -27,9 +27,8 @@ description: ""
 	<img style="width: 100%;" alt="" src="/images/tech-show.png">
 	<h5>and more...</h5>
 </div>
-
+<br><br>
 <div class="inner">
-<h2 style="text-align: center;" class="major">Event Location</h2>
 <div style="text-align: center;">
 <iframe height="480" width="100%" src="https://www.google.com/maps/d/u/1/embed?mid=1XQt0biRtD0xPtkpNumyIF_SqtxcFkr0&amp;ehbc=2E312F&amp;ll=1.385768650749909%2C103.75120130000002&amp;z=18"></iframe>
 </div>
