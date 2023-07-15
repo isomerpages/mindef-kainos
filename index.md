@@ -9,7 +9,6 @@ sections:
   - hero:
       title: KAINOS
       subtitle: POWER TO THE EDGE
-      background: /images/futuristic-colorful-glowing-abstract-neon-lights-background.jpg
       button: Register now
       url: /contact-us/
       key_highlights:
@@ -38,6 +37,6 @@ sections:
       image: /images/kainos-ai.jpg
       alt: Image alt text
   - resources:
-      subtitle: Meet our speakers
+      subtitle: NEWS
       button: Resources Button Name
 ---
