@@ -34,7 +34,7 @@ sections:
         "fresh," KAINOS is a gathering like no other.
       button: Learn More
       url: /about
-      image: /images/kainos-ai.jpg
+      image: /images/ai-circle-small.png
       alt: Image alt text
   - resources:
       subtitle: NEWS
