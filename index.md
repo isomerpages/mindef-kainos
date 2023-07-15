@@ -13,7 +13,7 @@ sections:
       url: https://go.gov.sg/kainos2023
       background: /images/kainos-bg.png
   - infobar:
-      title: 6 - 8 NOVEMBER 2023
+      title: 6 - 8 NOV 2023
       subtitle: Organised by Signals formation
       description: STAGMONT CAMP
       url: /about-kainos/
