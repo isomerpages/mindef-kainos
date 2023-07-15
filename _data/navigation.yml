@@ -1,8 +1,8 @@
 logo: /images/kainoslogo1.png
 links:
+  - title: About Kainos
+    url: /example-page/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Example Folder
     collection: example-folder
