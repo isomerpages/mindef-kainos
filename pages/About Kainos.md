@@ -13,5 +13,5 @@ description: ""
 <div style="text-align: center" class="text-container">
 <h4>Organised by Signal Formation</h4>
 <p><img style="width: 20%;" alt="" src="images/signals.png"></p>
-<h2><a class="button primary" href="#">Sign Up Now</a></h2>
+<h2><a class="button primary" href="#">Register Now</a></h2>
 </div>
