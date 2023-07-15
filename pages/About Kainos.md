@@ -9,9 +9,15 @@ description: ""
 
 <p style="text-align: justify;">Organised by Signal Formation, this year's theme, "Power to the Edge" promises to bring cutting edge technology for our ops users. Spanning 3 days, the event will be held at Stagmont Camp, and will feature guest speakers, focus group discussions, and tech demonstrations. View the <a class="button primary" href="/event-schedule/">event schedule here</a>.</p>
 
-<p style="text-align: justify;">Join us at KAINOS and embark on a thrilling exploration of the new, the fresh, and the remarkable. Experience the power of innovation, embrace the future, and be a part of the revolution that is shaping our world today. </p>
+<p style="text-align: justify;">Join us at KAINOS and embark on a thrilling exploration of the new, the fresh, and the remarkable. Experience the power of innovation, embrace the future, and be a part of the revolution that is shaping our world today. <br> </p>
+
+##### [Register now!](https://go.gov.sg/kainos2023)
 <div style="text-align: center" class="text-container">
-<h4>Organised by Signal Formation</h4>
-<p><img style="width: 20%;" alt="" src="images/signals.png"></p>
-<h2><a class="button primary" href="#">Register Now</a></h2>
+<h5>Organised by Signal Formation</h5>
+<img style="width: 30%;" alt="" src="images/signals.png">
+	<br>
+	<h5>OPS PARTNERS</h5>
+	<img style="width: 100%;" alt="" src="images/ops-partners.png">
+	<h5>DEFENCE PARTNERS</h5>
+	<img style="width: 100%;" alt="" src="images/defence partners.png">
 </div>
