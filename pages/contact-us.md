@@ -5,18 +5,12 @@ permalink: /contact-us/
 agency_name: KAINOS
 locations:
   - address:
-      - Stagmont Road
+      - Stagmont Camp
+      - 312 Stagmont Road
       - Singapore 688794
-      - ""
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: https://goo.gl/maps/g9qA2sx1jTWmuzcG9
-    title: Stagmont Camp
+    title: HQ Signals & Command Systems
+    operating_hours: []
+    maps_link: https://goo.gl/maps/vsgnTo77RT7tM6Ux8
 contacts:
   - content:
       - phone: +65 6123 4567
@@ -28,4 +22,5 @@ contacts:
       - email: careers@abc.gov.sg
       - other: ""
     title: Careers
+feedback: mailto:chua_wee_kian@defence.gov.sg
 ---
