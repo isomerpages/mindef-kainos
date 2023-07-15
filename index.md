@@ -4,7 +4,7 @@ title: KAINOS
 description: Power to the Edge
 image: /images/isomer-logo.svg
 permalink: /
-notification: Registration for KAINOS 2023 - Power to the Edge is open now!
+notification: ""
 sections:
   - hero:
       title: KAINOS
@@ -12,15 +12,15 @@ sections:
       button: Register now
       url: https://go.gov.sg/kainos2023
       key_highlights:
-        - title: About Kainos
-          description: Inspiring Innovation
-          url: /about-kainos/
-        - title: Meet our Speakers
-          description: Discover the Visionaries
-          url: /meet-our-speakers/
-        - title: Event Schedule
-          description: Learn More
-          url: /event-schedule/
+        - title: ""
+          description: ""
+          url: ""
+        - title: ""
+          description: ""
+          url: ""
+        - title: ""
+          description: ""
+          url: ""
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOVEMBER 2023
