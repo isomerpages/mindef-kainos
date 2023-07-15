@@ -3,12 +3,12 @@ url: https://www.kainos.com
 favicon: /images/xkn-logo.png
 colors:
   primary-color: "#4a90e2"
-  secondary-color: "#9013fe"
+  secondary-color: "#353849"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#353849"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
