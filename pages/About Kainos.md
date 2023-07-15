@@ -17,14 +17,14 @@ description: ""
 
 <div style="text-align: center" class="text-container">
 <h5>Organised by Signal Formation</h5>
-<img style="width: 30%;" alt="" src="images/signals.png">
+<img style="width: 30%;" alt="" src="/images/signals.png">
 	<br>
 	<h5>OPS PARTNERS</h5>
-	<img style="width: 100%;" alt="" src="images/ops-partners.png">
+	<img style="width: 100%;" alt="" src="/images/ops-partners.png">
 	<h5>DEFENCE PARTNERS</h5>
-	<img style="width: 100%;" alt="" src="images/defence partners.png">
+	<img style="width: 100%;" alt="" src="/images/defence partners.png">
 	<h5>TECH EXHIBITORS</h5>
-	<img style="width: 100%;" alt="" src="images/tech-show.png">
+	<img style="width: 100%;" alt="" src="/images/tech-show.png">
 	<h5>and more...</h5>
 </div>
 
