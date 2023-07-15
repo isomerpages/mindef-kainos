@@ -28,4 +28,11 @@ description: ""
 	<h5>and more...</h5>
 </div>
 
+<div class="inner">
+<h2 style="text-align: center;" class="major">Event Location</h2>
+<div style="text-align: center;">
+<iframe height="480" width="100%" src="https://www.google.com/maps/d/u/1/embed?mid=1XQt0biRtD0xPtkpNumyIF\_SqtxcFkr0&amp;ehbc=2E312F"></iframe>
+</div>
+</div>
+
 <a class="button primary" href="/">Back to home</a>
