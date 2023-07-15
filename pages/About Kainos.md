@@ -12,6 +12,9 @@ description: ""
 <p style="text-align: justify;">Join us at KAINOS and embark on a thrilling exploration of the new, the fresh, and the remarkable. Experience the power of innovation, embrace the future, and be a part of the revolution that is shaping our world today. <br> </p>
 
 ##### [Register now!](https://go.gov.sg/kainos2023)
+<br>
+<br>
+
 <div style="text-align: center" class="text-container">
 <h5>Organised by Signal Formation</h5>
 <img style="width: 30%;" alt="" src="images/signals.png">
@@ -20,4 +23,9 @@ description: ""
 	<img style="width: 100%;" alt="" src="images/ops-partners.png">
 	<h5>DEFENCE PARTNERS</h5>
 	<img style="width: 100%;" alt="" src="images/defence partners.png">
+	<h5>TECH EXHIBITORS</h5>
+	<img style="width: 100%;" alt="" src="images/tech-show.png">
+	<h5>and more...</h5>
 </div>
+
+<a class="button primary" href="/">Back to home</a><p></p>
