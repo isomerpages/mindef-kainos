@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/xkn-wide.png
 links:
+  - title: About Kainos
+    url: /about-kainos/
+  - title: Guest Speakers
+    url: /meet-our-speakers/
+  - title: Event Schedule
+    url: /event-schedule/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: News
+    resource_room: true
