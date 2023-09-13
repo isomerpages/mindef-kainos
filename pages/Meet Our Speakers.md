@@ -22,6 +22,7 @@ Mr Bill Eng graduated from Cambridge University with honors in Physics in 1982 a
 
 |**Mr Lien Choong Luen**||
 | -------- | -------- | 
+![](/images/Speakers/lien%20choong%20luen.png)
 <p style="text-align: justify;">Mr Lien Choong Luen is the General Manager of Gojek Singapore, where he is responsible for the company’s commercial operations and other business activities in Singapore. Prior to Gojek, he was at the National Research Foundation, where he worked to enhance innovation at companies in Singapore’s research and development ecosystem. </p>
 
 <p style="text-align: justify;">Mr Lien was also a strategy consultant in McKinsey China, and the head of the McKinsey Centre for Government (Southeast Asia). He spent more than 10 years in the Singapore Armed Forces as a Special Forces officer. Outside of work, Lien has a passion for challenges. Some adventures include summiting Mount Everest, K2 skiing to the North Pole, and enduring temperature extremes ranging from -50°C to +50°C.</p>
