@@ -8,31 +8,32 @@ description: ""
 <details>
 <summary>Day 1: 6 Nov</summary>
 	<br>
-10:00 AM TO 13:00 PM<br>
-Speaker<br><br>
-13:00 PM TO 15:00 PM<br>
-Focus Group Discussion<br>
+1:30 PM TO 2:30 PM<br>
+Keynote: Digital Transformation for the Army<br><br>
+2:45 PM TO 5:00 PM<br>
+Ops Demo<br><br>
+	All Day<br>
+	Tech Gateway<br>
 <br>
 </details>
 	<br>
 <details>
 <summary>Day 2: 7 Nov</summary>
 	<br>
-10:00 AM TO 13:00 PM<br>
-Speaker<br><br>
-13:00 PM TO 15:00 PM<br>
-Focus Group Discussion<br>
+Reserved for Signal Formation and Army Senior Leadership
 <br>
 </details>
 	<br>
 <details>
 <summary>Day 3: 8 Nov</summary>
 	<br>
-10:00 AM TO 13:00 PM<br>
-Speaker<br><br>
-13:00 PM TO 15:00 PM<br>
-Focus Group Discussion<br>
+1:30 PM TO 2:30 PM<br>
+Keynote: Spectrum Dominance<br><br>
+2:45 PM TO 5:00 PM<br>
+Ops Demo<br><br>
+	All Day<br>
+	Tech Gateway<br>
 <br>
 </details>
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1XQt0biRtD0xPtkpNumyIF_SqtxcFkr0&ehbc=2E312F" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1XQt0biRtD0xPtkpNumyIF_SqtxcFkr0&amp;ehbc=2E312F" width="100%" height="480"></iframe>
