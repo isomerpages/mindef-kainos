@@ -10,3 +10,9 @@ description: ""
 
 **Mr Bill Eng**
 ![](/images/Speakers/bill%20eng.jpg)
+
+Mr Bill Eng graduated from Cambridge University with honors in Physics in 1982 and Masters in 1986. He started experimenting with GPS navigation/timing solutions for enhancing battlefield efficiency in early 1980s &amp; built the early GPS receivers &amp; frequency hopping radios.
+
+This was followed by pioneering work to develop GNSS/Comms jamming &amp; spoofing techniques and their countermeasures, anti-jam adaptive antennas, follower-on jammers / geo-locators against spread spectrum radios, etc. earning him Tech Excellence Awards for his achievements, some of which pre-empted the EW community/industry by &gt; 6 years such as his 2005 demonstration of GPS Spoofing to steer guided munitions/drones/comms astray.
+
+Bill is also a fintech entrepreneur, winning the prestigious MAS fintech awards twice (2016 and 2020) and collaborated with many renowned financial institutions on AI solutions to capture &amp; extract conversational intelligence from social chats, predicting market turning points etc.
