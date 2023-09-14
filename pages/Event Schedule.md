@@ -16,14 +16,14 @@ Ops Demo<br><br>
 	Tech Gateway<br>
 <br>
 </details>
-	<br>
+	
 <details>
 <summary>Day 2: 7 Nov</summary>
 	<br>
 Reserved for Signal Formation and Army Senior Leadership
 <br>
 </details>
-	<br>
+	
 <details>
 <summary>Day 3: 8 Nov</summary>
 	<br>
