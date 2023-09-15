@@ -21,7 +21,6 @@ Ops Demo<br><br>
 <summary>Day 2: 7 Nov</summary>
 	<br>
 Reserved for Signal Formation and Army Senior Leadership
-<br>
 </details>
 	<br>
 <details>
@@ -33,7 +32,7 @@ Keynote: Spectrum Dominance<br><br>
 Ops Demo<br><br>
 	All Day<br>
 	Tech Gateway<br>
-<br>
+
 </details>
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1XQt0biRtD0xPtkpNumyIF_SqtxcFkr0&amp;ehbc=2E312F" width="100%" height="480"></iframe>
