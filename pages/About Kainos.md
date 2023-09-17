@@ -22,10 +22,9 @@ description: ""
 	<h5>OPS PARTNERS</h5>
 	<img style="width: 100%;" alt="" src="/images/ops-partners.png">
 	<h5>DEFENCE PARTNERS</h5>
-	<img style="width: 100%;" alt="" src="/images/defence partners.jpeg">
+	<img style="width: 100%;" alt="" src="/images/defence-partners.jpg">
 	<h5>TECH GATEWAY</h5>
-	<img style="width: 100%;" alt="" src="/images/tech-show.png">
-	<h5>and more...</h5>
+	<img style="width: 100%;" alt="" src="/images/tech-gateway.jpg">
 </div>
 <br><br>
 <div class="inner">
