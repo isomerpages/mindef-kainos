@@ -9,8 +9,6 @@ sections:
   - hero:
       title: KAINOS
       subtitle: POWER TO THE EDGE
-      button: Register now
-      url: https://go.gov.sg/kainos2023
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOV 2023
