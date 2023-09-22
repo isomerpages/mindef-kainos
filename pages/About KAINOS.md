@@ -1,5 +1,5 @@
 ---
-title: About Kainos
+title: About KAINOS
 permalink: /about-kainos/
 description: ""
 ---
@@ -29,7 +29,7 @@ description: ""
 <br><br>
 <div class="inner">
 <div style="text-align: center;">
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1XQt0biRtD0xPtkpNumyIF_SqtxcFkr0&ehbc=2E312F" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1XQt0biRtD0xPtkpNumyIF_SqtxcFkr0&amp;ehbc=2E312F" width="100%" height="480"></iframe>
 </div>
 </div>
 

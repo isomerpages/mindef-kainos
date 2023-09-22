@@ -16,6 +16,6 @@ contacts:
       - phone: +65 9430 7586
       - email: ""
       - other: Organising Secretariat
-    title: Ng Jin Tai
+    title: MAJ Ng Jin Tai
 feedback: mailto:chua_wee_kian@defence.gov.sg
 ---

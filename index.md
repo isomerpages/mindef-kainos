@@ -12,7 +12,7 @@ sections:
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOV 2023
-      subtitle: Organised by Signals formation
+      subtitle: Organised by Signal formation
       description: STAGMONT CAMP
       url: /about-kainos/
   - infopic:
