@@ -13,9 +13,9 @@ locations:
     title: HQ Signals & Command Systems
 contacts:
   - content:
-      - phone: ""
+      - phone: +65 9430 7586
       - email: ""
-      - other: ""
-    title: KAINOS Organising Committee
+      - other: Organising Secretariat
+    title: Ng Jin Tai
 feedback: mailto:chua_wee_kian@defence.gov.sg
 ---
