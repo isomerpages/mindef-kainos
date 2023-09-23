@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: KAINOS
+      title: Project KAINOS
       subtitle: POWER TO THE EDGE
       background: /images/kainos-bg.png
   - infobar:
@@ -20,7 +20,7 @@ sections:
       subtitle: /kai̯.nós/
       description: Drawing inspiration from the ancient Greek word meaning "new" or
         "fresh," KAINOS is a gathering like no other.
-      button: About KAinos
+      button: About KAINOS
       url: /about-kainos/
       image: /images/ai-circle-smaller-rect.png
       alt: Image alt text
