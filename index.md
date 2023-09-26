@@ -28,7 +28,7 @@ sections:
       title: Signal Formation
       subtitle: Organised by
       id: infopic
-      image: /images/signals.png
+      image: /images/signals right.png
       alt: Signals
   - infopic:
       title: Ops Partners
