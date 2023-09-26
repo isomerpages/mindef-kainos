@@ -7,7 +7,7 @@ description: ""
 
 
 **Dr Ong Wei Chong** 
-![](/images/Speakers/dr%20ong%20wei%20chong.jpg)
+![](/images/Speakers/dr%20ong%20wei%20chong%20sq.jpg)
 <p style="text-align: justify;">Dr Ong Wei Chong is a Senior Associate Fellow and Head of the National Security Studies Programme (NSSP), in the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University, Singapore. He is also adjunct faculty in the Military Studies Programme at the school’s constituent unit, the Institute of Defence and Strategic Studies (IDSS). He 
 has taught at the command and staff college, advanced school and officer cadet school levels at SAFTI Military Institute, Singapore. He was also coordinator of the Asia Pacific Programme for Senior Military Officers (APPSMO). </p>
 	
