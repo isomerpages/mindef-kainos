@@ -7,7 +7,7 @@ description: ""
 
 <p style="text-align: justify;">Immerse yourself in a captivating environment where the frontiers of technology are explored and celebrated. With a focus on tech-driven solutions, AI, and data analytics, KAINOS as the inaugural Army Experimentation initiative showcases the latest tech breakthroughs and offers a glimpse into the possibilities ahead.</p>
 
-<p style="text-align: justify;">Engage with industry leaders and discover the technologies that will shape our world in the years to come. KAINOS prepares interactive demos, thought-provoking discussions, keynotes and booths from leading companies such as Grab, Amazon, and Seventh Sense to present commercial solutions for the military.</p>
+<p style="text-align: justify;">Engage with industry leaders and discover the technologies that will shape our world in the years to come. KAINOS prepares interactive demos, thought-provoking discussions, keynotes and booths from leading companies such as Amazon, Zoom and Seventh Sense to present commercial solutions for the military.</p>
 
 <p style="text-align: justify;">Jointly organised by Signal Formation and FSTD, this year's theme, "Power to the Edge" promises to bring cutting edge technology for our ops users within Stagmont Camp. View the <a class="button primary" href="/event-schedule/">event schedule here</a>.</p>
 
@@ -27,6 +27,7 @@ description: ""
 	<img style="width: 100%;" alt="" src="/images/vendor-logo-short.png">
 </div>
 <br><br>
+<br>
 <div class="inner">
 <div style="text-align: center;">
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1XQt0biRtD0xPtkpNumyIF_SqtxcFkr0&amp;ehbc=2E312F" width="100%" height="480"></iframe>
