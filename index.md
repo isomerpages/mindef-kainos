@@ -24,6 +24,27 @@ sections:
       url: /about-kainos/
       image: /images/ai-circle-smaller-rect.png
       alt: Image alt text
+  - infopic:
+      title: Signal Formation
+      subtitle: Organised by
+      id: infopic
+      image: /images/signals right.png
+      alt: Signals
+  - infopic:
+      title: Ops Partners
+      id: infopic
+      image: /images/ops-partner-clear.png
+      alt: Image alt text
+  - infopic:
+      title: Defence Partners
+      id: infopic
+      image: /images/defence-partners-clear.png
+      alt: Image alt text
+  - infopic:
+      title: Tech Gateway
+      id: infopic
+      image: /images/tech-gateway-clear.png
+      alt: Image alt text
   - infobar:
       title: Guest Speakers
       subtitle: Discover the visionaries
