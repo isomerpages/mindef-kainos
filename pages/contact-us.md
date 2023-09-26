@@ -38,17 +38,17 @@ contacts:
       - other: Conducting
     title: MAJ Gary Ding
   - content:
-      - phone: ""
+      - phone: +65 9430 7586
       - email: ""
       - other: Organising Secretariat
     title: MAJ Ng Jin Tai
   - content:
-      - phone: ""
+      - phone: +65 9369 1897
       - email: ""
       - other: Organising Secretariat
     title: CPT Isaac Liao
   - content:
-      - phone: ""
+      - phone: +65 8322 5717
       - email: ""
       - other: Organising Secretariat
     title: CPT Tee Jin Hui
