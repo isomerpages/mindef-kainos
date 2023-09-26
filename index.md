@@ -25,10 +25,10 @@ sections:
       image: /images/ai-circle-smaller-rect.png
       alt: Image alt text
   - infopic:
-      title: Signal Formation
-      subtitle: Organised by
+      title: Signal Formation & FSTD
+      subtitle: Jointly Organised by
       id: infopic
-      image: /images/signals right.png
+      image: /images/organising-logo.png
       alt: Signals
   - infopic:
       title: Ops Partners
@@ -38,12 +38,12 @@ sections:
   - infopic:
       title: Defence Partners
       id: infopic
-      image: /images/defence-partners-clear.png
+      image: /images/defence-part-logo-short.png
       alt: Image alt text
   - infopic:
       title: Tech Gateway
       id: infopic
-      image: /images/tech-gateway-clear.png
+      image: /images/vendor-logo-short.png
       alt: Image alt text
   - infobar:
       title: Guest Speakers
