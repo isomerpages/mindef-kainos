@@ -20,7 +20,7 @@ description: ""
 <img style="width: 30%;" alt="" src="/images/signals.png">
 	<br>
 	<h5>OPS PARTNERS</h5>
-	<img style="width: 100%;" alt="" src="/images/ops-partners.png">
+	<img style="width: 100%;" alt="" src="/images/ops-partner.png">
 	<h5>DEFENCE PARTNERS</h5>
 	<img style="width: 100%;" alt="" src="/images/defence-partners.jpg">
 	<h5>TECH GATEWAY</h5>
