@@ -10,4 +10,4 @@ image: /images/kainos poster.png
 
 ![](/images/kainos%20poster.png)
 
-Stay tuned to our website, for more to follow!
+Feel free to share on your social medias. Do stay tuned to our website, more exciting content coming your way!
