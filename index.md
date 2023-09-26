@@ -29,6 +29,7 @@ sections:
       subtitle: Organised by
       id: infopic
       image: /images/signals.png
+      alt: Signals
   - infopic:
       title: Ops Partners
       id: infopic
