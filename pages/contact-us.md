@@ -17,5 +17,10 @@ contacts:
       - email: ""
       - other: Organising Secretariat
     title: MAJ Ng Jin Tai
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Supervising
+    title: LTC Daryl Chua
 feedback: mailto:chua_wee_kian@defence.gov.sg
 ---
