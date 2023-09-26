@@ -22,9 +22,9 @@ description: ""
 	<h5>OPS PARTNERS</h5>
 	<img style="width: 100%;" alt="" src="/images/ops-partner.png">
 	<h5>DEFENCE PARTNERS</h5>
-	<img style="width: 100%;" alt="" src="/images/defence-part-logo.png">
+	<img style="width: 100%;" alt="" src="/images/defence-part-logo-short.png">
 	<h5>TECH GATEWAY</h5>
-	<img style="width: 100%;" alt="" src="/images/vendor-logo.png">
+	<img style="width: 100%;" alt="" src="/images/vendor-logo-short.png">
 </div>
 <br><br>
 <div class="inner">
