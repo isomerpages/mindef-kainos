@@ -24,6 +24,16 @@ sections:
       url: /about-kainos/
       image: /images/ai-circle-smaller-rect.png
       alt: Image alt text
+  - infopic:
+      title: Signal Formation
+      subtitle: Organised by
+      id: infopic
+      image: /images/signals.png
+  - infopic:
+      title: Ops Partners
+      id: infopic
+      image: /images/ops-partner.png
+      alt: Image alt text
   - infobar:
       title: Guest Speakers
       subtitle: Discover the visionaries
