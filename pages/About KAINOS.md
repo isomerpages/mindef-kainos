@@ -24,7 +24,7 @@ description: ""
 	<h5>DEFENCE PARTNERS</h5>
 	<img style="width: 100%;" alt="" src="/images/defence-partners.jpg">
 	<h5>TECH GATEWAY</h5>
-	<img style="width: 100%;" alt="" src="/images/tech-gateway.jpg">
+	<img style="width: 100%;" alt="" src="/images/tech-gateways.jpg">
 </div>
 <br><br>
 <div class="inner">
