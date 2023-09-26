@@ -16,15 +16,15 @@ description: ""
 <br>
 
 <div style="text-align: center" class="text-container">
-<h5>Organised by Signal Formation</h5>
-<img style="width: 30%;" alt="" src="/images/signals.png">
+<h5>Jointly Organised by</h5>
+<img src="/images/organising-logo.png">
 	<br>
 	<h5>OPS PARTNERS</h5>
 	<img style="width: 100%;" alt="" src="/images/ops-partner.png">
 	<h5>DEFENCE PARTNERS</h5>
-	<img style="width: 100%;" alt="" src="/images/defence-partners.jpg">
+	<img style="width: 100%;" alt="" src="/images/defence-part-logo.png">
 	<h5>TECH GATEWAY</h5>
-	<img style="width: 100%;" alt="" src="/images/tech-gateways.jpg">
+	<img style="width: 100%;" alt="" src="/images/vendor-logo.png">
 </div>
 <br><br>
 <div class="inner">
