@@ -40,6 +40,12 @@ sections:
       id: infopic
       image: /images/defence-part-logo-short.png
       alt: Image alt text
+  - infobar:
+      title: Ops Demonstrations
+      subtitle: Engaging leading industries
+      id: infobar
+      description: Exploring novel commercial solutions through experimentation to
+        fulfill operational needs
   - infopic:
       title: Tech Gateway
       id: infopic
