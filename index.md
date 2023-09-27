@@ -45,7 +45,7 @@ sections:
       subtitle: Engaging leading industries
       id: infobar
       description: Exploring novel commercial solutions through experimentation to
-        fulfill operational needs
+        fulfill operational requirements
   - infopic:
       title: Tech Gateway
       id: infopic
