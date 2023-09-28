@@ -16,11 +16,11 @@ description: ""
 <img style="width: 400px;" src="/images/Speakers/bill%20eng.jpg">
 <h5 style="text-align: center;">Mr Bill Eng</h5>
 <p style="text-align: justify;">
-Mr Bill Eng graduated from Cambridge University with honors in Physics in 1982 and Masters in 1986. He started experimenting with GPS navigation/timing solutions for enhancing battlefield efficiency in early 1980s &amp; built the early GPS receivers &amp; frequency hopping radios.</p>
+MrBill Eng graduated from Cambridge University with honors in Physics in 1982 and Masters in 1986. He started experimenting with GPS navigation/timing solutions &amp; datalinks for enhancing battlefield efficiency in early 1980s &amp; built GPS receivers &amp; frequency hopping radios.</p>
 
-<p style="text-align: justify;">This was followed by pioneering work to develop GNSS/Comms jamming &amp; spoofing techniques and their countermeasures, anti-jam adaptive antennas, follower-on jammers / geo-locators against spread spectrum radios, etc. earning him Tech Excellence Awards for his achievements, some of which pre-empted the EW community/industry by &gt; 6 years such as his 2005 demonstration of GPS Spoofing to steer guided munitions/drones/comms astray.</p>
+<p style="text-align: justify;">This was followed by pioneering work to develop GPS communications jamming &amp; spoofing techniques and their countermeasures, anti-jam adaptive antennas for GPS communications, smart follower-on jammers / geo-locators against spread-spectrum radios, earning him the Tech Excellence Awards for his achievements, some of which pre-empted the EW community/industry by more than 6 years, such as his 2005 invention/demonstration of precision-targeted GPS Spoofing to steer guided munitions/drones/comms astray.</p>
 
-<p style="text-align: justify;">Mr Eng is also a fintech entrepreneur, winning the prestigious MAS fintech awards twice (2016 and 2020) and collaborated with many renowned financial institutions on AI solutions to capture and extract conversational intelligence from social chats, predicting market turning points etc.</p>
+<p style="text-align: justify;">Bill is also a fintech entrepreneur, winning the prestigious MAS fintech awards twice (2016, 2020) and collaborated with many renowned financial institutions on AI solutions to capture &amp; extract conversational intelligence from social chats, predicting market turning points etc.</p>
 <br>
 <br>
 <img style="width: 400px;" src="/images/Speakers/lien%20choong%20luen.png">

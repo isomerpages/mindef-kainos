@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Signal Formation & FSTD
-      subtitle: Jointly Organised
+      subtitle: Jointly Organised by
       id: infopic
       image: /images/organising-logo.png
       alt: Signals
