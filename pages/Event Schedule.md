@@ -5,7 +5,9 @@ description: ""
 ---
 <p style="text-align: justify;">Explore three thrilling days of innovation, collaboration, and inspiration with our dynamic event schedule at KAINOS. Engage in captivating sessions, insightful panel discussions, and thought-provoking keynotes. Whether you're a military professional, industry leader, or academic enthusiast, our diverse program promises an unforgettable experience at the forefront of technology and beyond. Join us as we shape the future together during this action-packed event.</p>
 
+
  ##### 6 November 2023 (Monday)
+ 
  
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -15,7 +17,9 @@ description: ""
 |All Day| Tech Gateway | Multi Purpose Hall |
 
 
+
  ##### 7 November 2023 (Tuesday)
+ 
  
 | Time | Event |
 | -------- | -------- | 
@@ -23,6 +27,7 @@ description: ""
 
 
  ##### 8 November 2023 (Wednesday)
+ 
  
 | Time | Event | Venue |
 | -------- | -------- | -------- |
