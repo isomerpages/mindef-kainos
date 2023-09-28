@@ -12,7 +12,7 @@ sections:
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOV 2023
-      subtitle: Organised by Signal formation
+      subtitle: "Jointly organised by "
       description: STAGMONT CAMP
       url: /about-kainos/
   - infopic:
@@ -33,16 +33,18 @@ sections:
   - infopic:
       title: Ops Partners
       id: infopic
-      image: /images/ops-partner-clear.png
+      image: /images/ops partners clears.png
       alt: Image alt text
+      subtitle: Collaborated by
   - infopic:
       title: Defence Partners
       id: infopic
-      image: /images/defence-part-logo-short.png
+      image: /images/defence-part-logo-shorts.png
       alt: Image alt text
+      subtitle: Supported by
   - infobar:
       title: Ops Demonstrations
-      subtitle: Engaging leading industries
+      subtitle: "bridging commercial tech "
       id: infobar
       description: Exploring novel commercial solutions through experimentation to
         fulfill operational requirements
@@ -51,6 +53,7 @@ sections:
       id: infopic
       image: /images/vendor-logo-short.png
       alt: Image alt text
+      subtitle: Engaging leading industries
   - infobar:
       title: Guest Speakers
       subtitle: Discover the visionaries
