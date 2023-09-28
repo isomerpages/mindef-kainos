@@ -39,7 +39,7 @@ sections:
   - infopic:
       title: Defence Partners
       id: infopic
-      image: /images/defence-part-logo-shorts.png
+      image: /images/defence-part-logo-short.png
       alt: Image alt text
       subtitle: Supported by
   - infobar:
