@@ -6,7 +6,7 @@ description: ""
 <p style="text-align: justify;">Explore three thrilling days of innovation, collaboration, and inspiration with our dynamic event schedule at KAINOS. Engage in captivating sessions, insightful panel discussions, and thought-provoking keynotes. Whether you're a military professional, industry leader, or academic enthusiast, our diverse program promises an unforgettable experience at the forefront of technology and beyond. Join us as we shape the future together during this action-packed event.</p>
 
 
- ##### 6 November 2023 (Monday)
+<h5>6 November 2023 (Monday)</h5>
  
  
 | Time | Event | Venue |
@@ -18,7 +18,7 @@ description: ""
 
 
 
- ##### 7 November 2023 (Tuesday)
+<h5>7 November 2023 (Tuesday)</h5>
  
  
 | Time | Event | Venue |
@@ -26,7 +26,7 @@ description: ""
 |1:30 PM to 5:00 PM| Reserved for Signal Formation and Army Senior Leadership | Command Systems Training Hub |
 
 
- ##### 8 November 2023 (Wednesday)
+<h5>8 November 2023 (Wednesday)</h5>
  
  
 | Time | Event | Venue |
