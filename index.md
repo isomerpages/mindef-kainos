@@ -35,7 +35,7 @@ sections:
       id: infopic
       image: /images/ops partners clears.png
       alt: Image alt text
-      subtitle: Collaborated by
+      subtitle: Collaborated with
   - infopic:
       title: Defence Partners
       id: infopic
