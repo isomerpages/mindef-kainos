@@ -44,7 +44,7 @@ sections:
       subtitle: Supported by
   - infobar:
       title: Ops Demonstrations
-      subtitle: bridging commercial tech to defence capabilities
+      subtitle: REalising Envisaged Concepts
       id: infobar
       description: Exploring novel commercial solutions through experimentation to
         fulfill operational requirements
