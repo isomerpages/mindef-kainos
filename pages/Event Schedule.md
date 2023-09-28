@@ -21,9 +21,9 @@ description: ""
  ##### 7 November 2023 (Tuesday)
  
  
-| Time | Event |
-| -------- | -------- | 
-|1:30 PM to 5:00 PM| Reserved for Signal Formation and Army Senior Leadership | 
+| Time | Event | Venue |
+| -------- | -------- | -------- |
+|1:30 PM to 5:00 PM| Reserved for Signal Formation and Army Senior Leadership | Command Systems Training Hub |
 
 
  ##### 8 November 2023 (Wednesday)
