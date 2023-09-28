@@ -13,44 +13,19 @@ locations:
     title: HQ Signals & Command Systems
 contacts:
   - content:
-      - phone: ""
+      - phone: +65 9450 1228
       - email: ""
       - other: Supervising
     title: LTC Daryl Chua
   - content:
-      - phone: ""
-      - email: ""
-      - other: Supervising
-    title: LTC Neo Ginn Hock
-  - content:
-      - phone: ""
-      - email: ""
-      - other: Conducting
-    title: MAJ Guo Xiao Hui
-  - content:
-      - phone: ""
+      - phone: +65 9093 6905
       - email: ""
       - other: Conducting
     title: MAJ Rennie Sim
-  - content:
-      - phone: ""
-      - email: ""
-      - other: Conducting
-    title: MAJ Gary Ding
   - content:
       - phone: +65 9430 7586
       - email: ""
       - other: Organising Secretariat
     title: MAJ Ng Jin Tai
-  - content:
-      - phone: +65 9369 1897
-      - email: ""
-      - other: Organising Secretariat
-    title: CPT Isaac Liao
-  - content:
-      - phone: +65 8322 5717
-      - email: ""
-      - other: Organising Secretariat
-    title: CPT Tee Jin Hui
 feedback: mailto:chua_wee_kian@defence.gov.sg
 ---
