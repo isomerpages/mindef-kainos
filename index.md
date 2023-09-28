@@ -12,7 +12,7 @@ sections:
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOV 2023
-      subtitle: "Jointly organised by "
+      subtitle: Jointly organised by Signal Formation and FSTD
       description: STAGMONT CAMP
       url: /about-kainos/
   - infopic:
@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Signal Formation & FSTD
-      subtitle: Jointly Organised by Signal Formation and FSTD
+      subtitle: Jointly Organised
       id: infopic
       image: /images/organising-logo.png
       alt: Signals
