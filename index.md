@@ -12,7 +12,7 @@ sections:
       background: /images/kainos-bg.png
   - infobar:
       title: 6 - 8 NOV 2023
-      subtitle: Organised by Signal formation
+      subtitle: Jointly organised by Signal Formation and FSTD
       description: STAGMONT CAMP
       url: /about-kainos/
   - infopic:
@@ -26,23 +26,25 @@ sections:
       alt: Image alt text
   - infopic:
       title: Signal Formation & FSTD
-      subtitle: Jointly Organised by
+      subtitle: Jointly Organised
       id: infopic
       image: /images/organising-logo.png
       alt: Signals
   - infopic:
       title: Ops Partners
       id: infopic
-      image: /images/ops-partner-clear.png
+      image: /images/ops partners clears.png
       alt: Image alt text
+      subtitle: Collaborated by
   - infopic:
       title: Defence Partners
       id: infopic
       image: /images/defence-part-logo-short.png
       alt: Image alt text
+      subtitle: Supported by
   - infobar:
       title: Ops Demonstrations
-      subtitle: Engaging leading industries
+      subtitle: REalising Envisaged Concepts
       id: infobar
       description: Exploring novel commercial solutions through experimentation to
         fulfill operational requirements
@@ -51,6 +53,7 @@ sections:
       id: infopic
       image: /images/vendor-logo-short.png
       alt: Image alt text
+      subtitle: Engaging leading industries
   - infobar:
       title: Guest Speakers
       subtitle: Discover the visionaries
