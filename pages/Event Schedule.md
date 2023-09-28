@@ -11,7 +11,7 @@ description: ""
 | -------- | -------- | -------- |
 | 1:30 PM to 2:30 PM | Keynote: Digital Transformation  | Command Systems Training Hub|
 |2:45 PM to 5:00 PM| Ops Demonstration|Command Systems Training Hub|
-|All Day| Tech Gateway | Multi Purpose Hall|
+|All Day| Tech Gateway | Multi Purpose Hall |
 
 
  ##### **7 November 2023 (Tuesday)**
