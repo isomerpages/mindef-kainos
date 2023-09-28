@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Signal Formation & FSTD
-      subtitle: Jointly Organised by
+      subtitle: Jointly Organised by Signal Formation and FSTD
       id: infopic
       image: /images/organising-logo.png
       alt: Signals
@@ -44,7 +44,7 @@ sections:
       subtitle: Supported by
   - infobar:
       title: Ops Demonstrations
-      subtitle: "bridging commercial tech "
+      subtitle: bridging commercial tech to defence capabilities
       id: infobar
       description: Exploring novel commercial solutions through experimentation to
         fulfill operational requirements
