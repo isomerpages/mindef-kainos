@@ -21,9 +21,9 @@ description: ""
 <h5>7 November 2023 (Tuesday)</h5>
  
  
-| Time | Event | Venue |
-| -------- | -------- | -------- |
-|1:30 PM to 5:00 PM| Reserved for Signal Formation and Army Senior Leadership | Command Systems Training Hub |
+| Time | Event | 
+| -------- | -------- |
+|1:30 PM to 5:00 PM| Defence Technology Community Engagement and Signal Formation Learning Day |
 
 
 <h5>8 November 2023 (Wednesday)</h5>
