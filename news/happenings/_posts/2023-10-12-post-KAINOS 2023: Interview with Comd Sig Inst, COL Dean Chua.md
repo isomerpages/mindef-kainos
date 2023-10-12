@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: /images/thumbnail.png
 ---
-
-[![Alt Text](URL_of_Image)](URL_of_Link)
-
+[![](/images/thumbnail.png)](/images/Comd-SI.mp4)
 
 <p style="text-align: justify;">Watch as Comd Sig Inst, COL Dean Chua shares more about the inspiration on KAINOS and how the future of technology, experimentation and innovation can comes together to support our Army.</p>
 
