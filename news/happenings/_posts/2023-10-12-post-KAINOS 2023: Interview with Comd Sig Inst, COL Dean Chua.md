@@ -1,0 +1,17 @@
+---
+title: "KAINOS 2023: Interview with Comd Sig Inst, COL Dean Chua"
+permalink: /news/happenings/permalink/interview/comd-si/
+date: 2023-10-12
+layout: post
+description: ""
+image: /images/thumbnail.png
+---
+
+<video width="320" height="240" autoplay muted>  
+  <source src="/images/Comd-SI.mp4" type="video/mp4"> 
+Your browser does not support the video tag.  
+</video>
+
+<p style="text-align: justify;">Watch as Comd Sig Inst, COL Dean Chua shares more about the inspiration on KAINOS and how the future of technology, experimentation and innovation can comes together to support our Army.</p>
+
+<p style="text-align: justify;">Join us at KAINOS, as we explore new possibilities beyond our imagination.</p>
