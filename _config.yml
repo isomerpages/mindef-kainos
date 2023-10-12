@@ -1,6 +1,6 @@
 title: KAINOS
 url: https://www.kainos.com
-favicon: /images/xkn-logo.png
+favicon: /images/kainos_sq.png
 colors:
   primary-color: "#4a90e2"
   secondary-color: "#4a90e2"
@@ -53,7 +53,7 @@ staging: https://staging.d3ck7at8cdjn36.amplifyapp.com
 prod: https://master.d3ck7at8cdjn36.amplifyapp.com
 facebook-pixel: ""
 resources_name: news
-shareicon: /images/isomer-logo.svg
+shareicon: /images/kainos_black.png
 is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
