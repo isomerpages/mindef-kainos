@@ -53,7 +53,7 @@ staging: https://staging.d3ck7at8cdjn36.amplifyapp.com
 prod: https://master.d3ck7at8cdjn36.amplifyapp.com
 facebook-pixel: ""
 resources_name: news
-shareicon: /images/kainos_black.png
+shareicon: /images/kainos_website_logo.png
 is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
