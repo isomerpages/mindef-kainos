@@ -7,10 +7,8 @@ description: ""
 image: /images/thumbnail.png
 ---
 
-<video width="320" height="240" controls>  
-  <source src="/images/Comd-SI.mp4" type="video/mp4"> 
-Your browser does not support the video tag.  
-</video>
+[![Alt Text](URL_of_Image)](URL_of_Link)
+
 
 <p style="text-align: justify;">Watch as Comd Sig Inst, COL Dean Chua shares more about the inspiration on KAINOS and how the future of technology, experimentation and innovation can comes together to support our Army.</p>
 
