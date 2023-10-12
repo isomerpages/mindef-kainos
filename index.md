@@ -2,7 +2,7 @@
 layout: homepage
 title: KAINOS
 description: Power to the Edge
-image: /images/isomer-logo.svg
+image: /images/kainos_black.png
 permalink: /
 notification: ""
 sections:
