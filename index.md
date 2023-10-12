@@ -2,7 +2,7 @@
 layout: homepage
 title: KAINOS
 description: Power to the Edge
-image: /images/kainos_black.png
+image: /images/kainos_website_logo.png
 permalink: /
 notification: ""
 sections:
