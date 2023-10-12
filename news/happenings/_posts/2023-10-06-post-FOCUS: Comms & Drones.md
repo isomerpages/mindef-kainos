@@ -12,4 +12,4 @@ image: /images/kainos_poster_comms&drones.png
 
 <p style="text-align: justify;">Join us at KAINOS, as we present to you the latest tech breakthroughs in communications and drones and explore limits beyond our imagination.</p>
 
-[Est Read Time: 10 mins] Read more at https://www.c4isrnet.com/battlefield-tech/it-networks/2022/06/21/us-army-reaches-for-the-sky-to-solve-communication-needs/
+[Est Read Time: 10 mins] Read more at [https://www.c4isrnet.com/battlefield-tech/it-networks/2022/06/21/us-army-reaches-for-the-sky-to-solve-communication-needs/](https://www.c4isrnet.com/battlefield-tech/it-networks/2022/06/21/us-army-reaches-for-the-sky-to-solve-communication-needs/)

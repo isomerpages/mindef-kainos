@@ -13,4 +13,4 @@ image: /images/kainos_poster_spectrum.png
 <p style="text-align: justify;">Join us at KAINOS, as we present to you the latest tech breakthroughs in spectrum development and explore new possibilities beyond our imagination. </p>
 
 [Est Read Time: 5mins] 
-Read more at https://www.c4isrnet.com/opinion/2023/08/01/hiding-in-plain-sight-warfare-in-the-electromagnetic-spectrum/
+Read more at [https://www.c4isrnet.com/opinion/2023/08/01/hiding-in-plain-sight-warfare-in-the-electromagnetic-spectrum/](https://www.c4isrnet.com/opinion/2023/08/01/hiding-in-plain-sight-warfare-in-the-electromagnetic-spectrum/)
