@@ -12,4 +12,4 @@ image: /images/kainos_poster_dataanalytics.png
 
 <p style="text-align: justify;">Join us at KAINOS, as we present to you the latest in data analytics and explore limits beyond our imagination.</p> 
 
-[Est Read Time: 10 mins] Read more at https://www.ausa.org/articles/enhance-decisions-data
+[Est Read Time: 10 mins] Read more at [https://www.ausa.org/articles/enhance-decisions-data](https://www.ausa.org/articles/enhance-decisions-data)
