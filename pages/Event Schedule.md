@@ -11,9 +11,10 @@ description: ""
  
 | Time | Event | Venue |
 | -------- | -------- | -------- |
-| 1:30 PM to 2:30 PM | Keynote: Digital Transformation  | Command Systems Training Hub|
-|2:45 PM to 5:00 PM| Ops Demonstration|Command Systems Training Hub|
-|4:00 PM to 5:30 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
+|12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
+| 1:30 PM to 2:45 PM | Keynote: Digital Transformation  | Command Systems Training Hub|
+|3:00 PM to 6:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
+|5:00 PM to 6:00 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
 |All Day| Tech Gateway | Multi Purpose Hall |
 
 
@@ -21,20 +22,22 @@ description: ""
 <h5>7 November 2023 (Tuesday)</h5>
  
  
-| Time | Event | 
-| -------- | -------- |
-|1:30 PM to 5:00 PM| Defence Technology Community Engagement and Signal Formation Learning Day |
-
+| Time | Event | Venue |
+| -------- | -------- |-------- |
+|12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
+|1:30 PM to 2:00 PM | Keynote: Digital Transformation  | Command Systems Training Hub|
+|2:15 PM to 5:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 
 <h5>8 November 2023 (Wednesday)</h5>
  
  
 | Time | Event | Venue |
 | -------- | -------- | -------- |
-| 1:30 PM to 2:30 PM | Keynote: Spectrum Dominance  | Command Systems Training Hub|
-|2:45 PM to 5:00 PM| Ops Demonstration|Command Systems Training Hub|
-|4:00 PM to 5:30 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
-|All Day| Tech Gateway | Multi Purpose Hall|
+|12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
+| 1:30 PM to 2:45 PM | Keynote: Spectrum Dominance  | Command Systems Training Hub|
+|3:00 PM to 6:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
+|5:00 PM to 6:00 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
+|All Day| Tech Gateway | Multi Purpose Hall |
 
 
 
