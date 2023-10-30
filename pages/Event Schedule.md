@@ -25,8 +25,8 @@ description: ""
 | Time | Event | Venue |
 | -------- | -------- |-------- |
 |12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
-|1:30 PM to 2:00 PM | Keynote: Digital Transformation  | Command Systems Training Hub|
 |2:15 PM to 5:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
+|All Day| Tech Gateway | Multi Purpose Hall |
 
 <h5>8 November 2023 (Wednesday)</h5>
  
