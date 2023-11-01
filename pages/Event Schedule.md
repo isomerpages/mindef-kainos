@@ -16,7 +16,9 @@ description: ""
 |3:00 PM to 6:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 |5:00 PM to 6:00 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
 |All Day| Tech Gateway | Multi Purpose Hall |
+
 ###### Ops Demo Schedule for 6 Nov
+
 | Ops Demo |Venue | Session 1 | Session 2 | Session 3 | Session 4 | 
 | -------- | -------- | -------- | -------- | -------- | -------- |
 |Demo 1| CSTH, Training Shed|3:15 PM|4:00 PM |5:00 PM|5:40 PM|
@@ -35,7 +37,9 @@ description: ""
 |12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
 |2:15 PM to 5:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 |All Day| Tech Gateway | Multi Purpose Hall |
+
 ###### Ops Demo Schedule for 7 Nov
+
 | Ops Demo |Venue | Session 1 | Session 2 | Session 3 | Session 4 | 
 | -------- | -------- | -------- | -------- | -------- | -------- |
 |Demo 1| CSTH, Training Shed|2:15 PM|3:00 PM |4:00 PM|4:40 PM|
@@ -54,7 +58,9 @@ description: ""
 |3:00 PM to 6:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 |5:00 PM to 6:00 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
 |All Day| Tech Gateway | Multi Purpose Hall |
+
 ###### Ops Demo Schedule for 8 Nov
+
 | Ops Demo |Venue | Session 1 | Session 2 | Session 3 | Session 4 | 
 | -------- | -------- | -------- | -------- | -------- | -------- |
 |Demo 1| CSTH, Training Shed|3:15 PM|4:00 PM |5:00 PM|5:40 PM|
