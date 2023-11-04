@@ -27,5 +27,10 @@ contacts:
       - email: ""
       - other: Organising Secretariat
     title: MAJ Ng Jin Tai
-feedback: mailto:chua_wee_kian@defence.gov.sg
+  - content:
+      - phone: +65 8322 5717
+      - email: ""
+      - other: Organising Secretariat
+    title: CPT Tee Jin Hui
+feedback: ""
 ---
