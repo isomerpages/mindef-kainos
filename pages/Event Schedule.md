@@ -13,7 +13,7 @@ variant: markdown
 | Time | Event | Venue |
 | -------- | -------- | -------- |
 |12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
-| 1:30 PM to 2:45 PM | Keynote: Digital Transformation  | Command Systems Training Hub|
+| 1:30 PM to 2:45 PM | Opening Segment and Keynote: Digital Transformation  | Command Systems Training Hub|
 |3:00 PM to 6:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 |5:00 PM to 6:00 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
 |12:30 PM to 6:00 PM| Tech Gateway | Multi Purpose Hall |
@@ -36,6 +36,7 @@ variant: markdown
 | Time | Event | Venue |
 | -------- | -------- |-------- |
 |12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
+|1:30PM to 2:00 PM | Opening Segment |Command Systems Training Hub|
 |2:15 PM to 5:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 |12:30 PM to 5:00 PM| Tech Gateway | Multi Purpose Hall |
 
@@ -55,7 +56,7 @@ variant: markdown
 | Time | Event | Venue |
 | -------- | -------- | -------- |
 |12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
-| 1:30 PM to 2:45 PM | Keynote: Spectrum Dominance  | Command Systems Training Hub|
+| 1:30 PM to 2:45 PM | Opening Segment and Keynote: Spectrum Dominance  | Command Systems Training Hub|
 |3:00 PM to 6:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 |5:00 PM to 6:00 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
 |12:30 PM to 6:00 PM| Tech Gateway | Multi Purpose Hall |
