@@ -2,6 +2,7 @@
 title: Event Schedule
 permalink: /event-schedule/
 description: ""
+variant: markdown
 ---
 <p style="text-align: justify;">Explore three thrilling days of innovation, collaboration, and inspiration with our dynamic event schedule at KAINOS. Engage in captivating sessions, insightful panel discussions, and thought-provoking keynotes. Whether you're a military professional, industry leader, or academic enthusiast, our diverse program promises an unforgettable experience at the forefront of technology and beyond. Join us as we shape the future together during this action-packed event.</p>
 
@@ -15,7 +16,7 @@ description: ""
 | 1:30 PM to 2:45 PM | Keynote: Digital Transformation  | Command Systems Training Hub|
 |3:00 PM to 6:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 |5:00 PM to 6:00 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
-|All Day| Tech Gateway | Multi Purpose Hall |
+|12:30 PM to 6:00 PM| Tech Gateway | Multi Purpose Hall |
 
 ###### Ops Demo Schedule for 6 Nov
 
@@ -36,7 +37,7 @@ description: ""
 | -------- | -------- |-------- |
 |12:30 PM to 1:30 PM | Registration | Command Systems Training Hub|
 |2:15 PM to 5:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
-|All Day| Tech Gateway | Multi Purpose Hall |
+|12:30 PM to 5:00 PM| Tech Gateway | Multi Purpose Hall |
 
 ###### Ops Demo Schedule for 7 Nov
 
@@ -57,7 +58,7 @@ description: ""
 | 1:30 PM to 2:45 PM | Keynote: Spectrum Dominance  | Command Systems Training Hub|
 |3:00 PM to 6:00 PM| Ops Demonstration|Command Systems Training Hub / CyTEC|
 |5:00 PM to 6:00 PM| Focus Group Discussion (By Invite Only)| Signal Institute Conference Room|
-|All Day| Tech Gateway | Multi Purpose Hall |
+|12:30 PM to 6:00 PM| Tech Gateway | Multi Purpose Hall |
 
 ###### Ops Demo Schedule for 8 Nov
 
