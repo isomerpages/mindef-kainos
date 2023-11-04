@@ -7,7 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
-<iframe allow="autoplay" height="480" width="640" src="https://drive.google.com/file/d/1PEX35qz7piasJ_joaRnMjCIwkbk2Divd/preview"></iframe>
+
+<a target="_blank" href="https://drive.google.com/file/d/1PEX35qz7piasJ_joaRnMjCIwkbk2Divd/preview"><img alt="" src="/images/csothumb.jpg"></a>
 
 <p style="text-align: justify;">We are just days away from KAINOS! Join us for an exclusive interview with Chief Signal Officer, COL Gerald Sim, as he shares more about KAINOS. Discover the visionary perspective that's shaping the future of Army experimentation and innovation. </p>
 
