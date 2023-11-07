@@ -27,7 +27,7 @@ variant: markdown
 |Demo 3| CyTec | 3:15 PM| 3:35 PM|5:15 PM|5:30 PM|
 |Demo 4| CSTH, E-Plaza|3:35 PM|4:00 PM |5:20 PM|5:40 PM|
 |Demo 5| CyTec |3:30 PM|3:45 PM|5:30 PM|5:45 PM|
-|Demo 6| MPH, Level 2, Squash Court|3:15 PM|3:45 PM|5:15 PM|5:45 PM|
+|Demo 6| CSTH, E-Plaza|3:15 PM|3:45 PM|5:15 PM|5:45 PM|
 
 
 
@@ -49,7 +49,7 @@ variant: markdown
 |Demo 3| CyTec | 2:15 PM| 2:30 PM|4:15 PM|4:30 PM|
 |Demo 4| CSTH, E-Plaza|2:35 PM|3:00 PM |4:20 PM|4:40 PM|
 |Demo 5| CyTec |2:30 PM|2:45 PM|4:30 PM|4:45 PM|
-|Demo 6| MPH, Level 2, Squash Court|2:15 PM|2:45 PM|4:15 PM|4:45 PM|
+|Demo 6| CSTH, E-Plaza|2:15 PM|2:45 PM|4:15 PM|4:45 PM|
 
 <h5>8 November 2023 (Wednesday)</h5>
  
@@ -70,7 +70,7 @@ variant: markdown
 |Demo 3| CyTec | 3:15 PM| 3:35 PM|5:15 PM|5:30 PM|
 |Demo 4| CSTH, E-Plaza|3:35 PM|4:00 PM |5:20 PM|5:40 PM|
 |Demo 5| CyTec |3:30 PM|3:45 PM|5:30 PM|5:45 PM|
-|Demo 6| MPH, Level 2, Squash Court|3:15 PM|3:45 PM|5:15 PM|5:45 PM|
+|Demo 6| CSTH, E-Plaza|3:15 PM|3:45 PM|5:15 PM|5:45 PM|
 
 
 
