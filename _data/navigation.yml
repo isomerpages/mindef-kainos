@@ -1,0 +1,12 @@
+logo: /images/kainos_website_logo.png
+links:
+  - title: About KAINOS
+    url: /about-kainos/
+  - title: Guest Speakers
+    url: /meet-our-speakers/
+  - title: Event Schedule
+    url: /event-schedule/
+  - title: Contact Us
+    url: /contact-us/
+  - title: News
+    resource_room: true
